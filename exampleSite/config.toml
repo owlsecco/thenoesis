@@ -86,8 +86,8 @@ author = "Admin"
 description = "Welcome to The Noesis Ke. Your Trusted and Reliable Source of Quality Tech, Cybersecurity, Science, Business, Engineering & Other Content."
 image = ["images/header5.webp"]
 [params.banner]
-heading = "Your Reliable Source of Tech, Cybersecurity, Science, Business & Engineering Content"
-image = "images/rsz_header5.webp"
+heading = "Welcome to The Noesis. A Reliable Source of Tech, Cybersecurity, Science, Business & Engineering Content."
+image = ""
 [params.blog]
 heading = "Latest Articles"
 [params.call_to_action]

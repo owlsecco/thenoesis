@@ -1,4 +1,4 @@
-baseURL = "https://techwit2.netlify.app/"
+baseURL = "https://thenoesis.netlify.app/"
 disableLanguages = []
 disqusShortname = "techwitke"
 enableEmoji = true
@@ -9,7 +9,7 @@ languageName = "En"
 paginate = "10"
 summaryLength = "70"
 theme = "twentytwenty"
-title = "TechWit Ke v0.9"
+title = "The Noesis Ke"
 [imaging.exif]
 includeFields = ".*"
 [markup.goldmark.renderer]
@@ -85,6 +85,9 @@ Images = ["images/header5.webp"]
 author = "Admin"
 description = "Welcome to The TechWit Ke. Your Trusted and Reliable Source of Quality Tech, Cybersecurity, Development, Science, Business & Other Content."
 image = ["images/header5.webp"]
+[params.cookies]
+enable = true
+expire_days = 2
 [params.banner]
 heading = "Tech, Cybersecurity, Development, Science, Business & More"
 image = "images/rsz_header5.webp"

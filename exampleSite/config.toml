@@ -83,13 +83,10 @@ home = ["HTML", "RSS", "JSON", "Feed"]
 [params]
 Images = ["images/header5.webp"]
 author = "Admin"
-description = "Welcome to The TechWit Ke. Your Trusted and Reliable Source of Quality Tech, Cybersecurity, Development, Science, Business & Other Content."
+description = "Welcome to The Noesis Ke. Your Trusted and Reliable Source of Quality Tech, Cybersecurity, Science, Business, Engineering & Other Content."
 image = ["images/header5.webp"]
-[params.cookies]
-enable = true
-expire_days = 2
 [params.banner]
-heading = "Tech, Cybersecurity, Development, Science, Business & More"
+heading = "Your Reliable Source of Tech, Cybersecurity, Science, Business & Engineering Content"
 image = "images/rsz_header5.webp"
 [params.blog]
 heading = "Latest Articles"
@@ -99,6 +96,9 @@ button_url = "/newsletter"
 content = "Sign up and stay up to date by receiving quality content such as tips, tricks, news, howto's, insights, deals, savings, promotions, freebies, ebooks and more right in your inbox. Never miss an article or a giveaway. \nBecome a member of our community. Join us!"
 enable = true
 title = "Sign Up To Our Newsletter"
+[params.cookies]
+enable = true
+expire_days = 2
 [params.footer]
 content = "__TechWit Ke__ is an Informative Tech Publication committed to delivering quality, concise and easy to understand content that can be relied upon for the purposes of keeping you updated, helping you build a project, and making sure you are well informed.\n<br>\nProudly Powered by [Hugo](https://gohugo.io), [Forestry CMS](https://forestry.io), [Netlify](https://netlify.com) & [GitHub](https://github.com)"
 copyright = "&copy; 2020 [TechWit Ke](https://techwit2.netlify.app). All Rights Reserved.  "

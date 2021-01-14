@@ -114,8 +114,8 @@ facebook = "https://facebook.com/thenoesiske"
 feed = "https://thenoesis.netlify.app/index.xml"
 instagram = "https://instagram.com/thenoesiske"
 linkedin = "https://linkedin.com/thenoesiske"
-twitter = "https://twitter.com/techwitke"
-whatsapp = "https://chat.whatsapp.com/C7whEtGOcsY3eJU1mbiveB"
+twitter = "https://twitter.com/thenoesiske"
+whatsapp = ""
 [related]
 includeNewer = true
 threshold = 10

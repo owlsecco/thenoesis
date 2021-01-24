@@ -82,7 +82,7 @@ author = "Admin"
 description = "Welcome to The Noesis Ke. Your Trusted and Reliable Source of Quality Tech, Cybersecurity, Science, Business, Engineering & Other Content."
 image = ["banners/The Noesis Banner.png"]
 [params.banner]
-heading = "Welcome to The Noesis Ke!"
+heading = ""
 image = "banners/The Noesis Banner.png"
 [params.blog]
 heading = "Latest Articles"

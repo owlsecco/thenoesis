@@ -97,7 +97,7 @@ enable = true
 expire_days = 2
 [params.footer]
 content = "__The Noesis Ke__ is an Informative Tech and Science Publication committed to delivering quality, concise and easy to understand content that can be relied upon for the purposes of keeping you updated, helping you build a project, and making sure you are well informed.\n<br>\nProudly Powered by [Hugo](https://gohugo.io), [Forestry CMS](https://forestry.io), [Netlify](https://netlify.com) & [GitHub](https://github.com)"
-copyright = "&copy; 2021 [The Noesis Ke](https://thenoesis.netlify.app). All Rights Reserved.  "
+copyright = "&copy; 2021 [SAOA Media](https://saoainc.netlify.app/media). All Rights Reserved."
 email = "[thenoesis.ke@gmail.com](mailto:thenoesis.ke@gmail.com?cc=alunje73@gmail.com&subject=From%20Blog%20Footer)"
 postal = "P.O.Box 0740128010 - 00100<br>Nairobi, Kenya"
 telephone = "[+ 254 726 024 210](tel:+254726024210)"

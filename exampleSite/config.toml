@@ -77,13 +77,13 @@ mediaType = "application/json"
 [outputs]
 home = ["HTML", "RSS", "JSON", "Feed"]
 [params]
-Images = ["banners/banner 10.png"]
+Images = ["banners/The Noesis Banner.png"]
 author = "Admin"
 description = "Welcome to The Noesis Ke. Your Trusted and Reliable Source of Quality Tech, Cybersecurity, Science, Business, Engineering & Other Content."
-image = ["banners/banner 10.png"]
+image = ["banners/The Noesis Banner.png"]
 [params.banner]
-heading = "Welcome to The Noesis.<br> Your Source of Quality Tech, Cybersecurity and Science Content."
-image = "banners/banner 10.png"
+heading = "Welcome to The Noesis Ke!"
+image = "banners/The Noesis Banner.png"
 [params.blog]
 heading = "Latest Articles"
 [params.call_to_action]
